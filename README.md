@@ -1,2 +1,2 @@
 # don_algodon
-This is a first website using flask and django.
+Try for a website using Python, Flask and Django.
