@@ -5,4 +5,6 @@ app = Flask(__name__)
 @app.route('/')
 def index():
     return render_template('index.html')
-app.run()
+
+if __name__ == "__name__":
+    app.run(debug=False,host='0.0.0.0')
