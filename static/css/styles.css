@@ -560,6 +560,7 @@ progress {
 .list-inline {
   padding-left: 0;
   list-style: none;
+  text-align: left; 
 }
 
 .list-inline-item {
@@ -11255,13 +11256,9 @@ section#contact {
   background-image: url("../assets/img/main_background/black_white_flor_big.png");
   background-repeat: no-repeat;
   background-position: center;
-  padding: 20px;
-  width: 1500px;
-  height: 600px;
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
 }
 section#contact .section-heading {
   color: #fff;
